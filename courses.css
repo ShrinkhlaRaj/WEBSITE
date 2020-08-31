@@ -1,6 +1,6 @@
 .leftpane {
     width: 30%;
-    height: 100%;
+   
     float: left;
     background-color: brown;
    color :white;
@@ -10,7 +10,7 @@
 .middlepane { 
 
     width: 40%;
-    height: 100%;
+  
     float: left;
     background-color: white;
    color: brown;
@@ -19,7 +19,7 @@
 
 .rightpane {
   width: 30%;
-  height: 100%;
+
   position: relative;
   color:white;
   float: right;
