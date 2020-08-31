@@ -1,0 +1,23 @@
+form{
+   float: left;
+  
+  width: 60%;
+   background-color:brown;
+ display:block; 
+height:430px;
+color:white;
+}
+
+section{
+  float: right;
+ background-color:white;
+color:brown;
+  width: 40%; 
+display:block;
+height:430px;
+
+ 
+}
+
+
+ 

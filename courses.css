@@ -1,0 +1,28 @@
+.leftpane {
+    width: 30%;
+    height: 400px;
+    float: left;
+    background-color: brown;
+   color :white;
+    border-collapse: collapse;
+}
+
+.middlepane { 
+
+    width: 40%;
+    height: 400px;
+    float: left;
+    background-color: white;
+   color: brown;
+    border-collapse: collapse;
+}
+
+.rightpane {
+  width: 30%;
+  height: 400px;
+  position: relative;
+  color:white;
+  float: right;
+  background-color: brown;
+  border-collapse: collapse;
+}
