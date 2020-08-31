@@ -2,7 +2,7 @@ form{
     color:white; 
     background-color:brown;
     display:block;
-    height:230px;
+    height:3200px;
 }
 
 h2{
@@ -10,7 +10,7 @@ h2{
    color:blue;
    }
 
-footer {
+.f {
   position: fixed;
   left: 0;
   bottom: 0;
