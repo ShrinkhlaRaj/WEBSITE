@@ -30,7 +30,7 @@
   .leftpane,.rightpane,.middlepane{
     width: 100%;
   }
-
+}
  .f{
   position: fixed;
   left: 0;
