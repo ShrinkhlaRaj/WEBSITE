@@ -26,6 +26,10 @@
   background-color: brown;
   border-collapse: collapse;
 }
+@media screen and (max-width: 600px) {
+  .leftpane,.rightpane,.middlepane{
+    width: 100%;
+  }
 
  .f{
   position: fixed;
