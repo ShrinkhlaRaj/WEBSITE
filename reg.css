@@ -18,6 +18,12 @@ height:430px;
 
  
 }
+.not{
+   background-color:white;
+    color:blue;
+   font-family:comic sans;}
+   
+   
 .f {
   position: fixed;
   left: 0;
