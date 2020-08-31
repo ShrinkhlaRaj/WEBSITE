@@ -1,5 +1,5 @@
 form{
-   float: left;
+   float: right;
   
   width: 60%;
    background-color:brown;
@@ -9,7 +9,7 @@ color:white;
 }
 
 section{
-  float: right;
+  float: left;
  background-color:white;
 color:brown;
   width: 40%; 
